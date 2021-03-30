@@ -657,68 +657,86 @@ v1.0.25 (marcelveldt)
 
     <!-- RESOURCES -->
     <addon id="resource.images.moviegenreicons.bingie" name="Movie Genre Icons - BINGIE" version="1.0.0" provider-name="cartman.dos">
-        <extension point="kodi.resource.images" compile="true" type="moviegenreicons" />
-        <requires>
-            <import addon="kodi.resource" version="1.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Movies and TV Shows Genre Icons for Titan BINGIE</summary>
-            <description lang="en">BINGIE Style Genre Bricks</description>
-            <platform>all</platform>
-            <email></email>
-            <license>GPL v3.0</license>
-            <forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
-            <website></website>
-            <source>https://github.com/cartmandos/resource.images.moviegenreicons.bingie/</source>
-        </extension>
-    </addon>
+	<extension point="kodi.resource.images" compile="true" type="moviegenreicons" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Movies and TV Shows Genre Icons for Titan BINGIE</summary>
+		<description lang="en">BINGIE Style Genre Bricks</description>
+		<platform>all</platform>
+		<email></email>
+		<license>GPL v3.0</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
+		<website></website>
+		<source>https://github.com/cartmandos/resource.images.moviegenreicons.bingie/</source>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
     <addon id="resource.images.backgroundoverlays.basic" name="Background Overlays Pack - Basic" version="1.0.0" provider-name="marcelveldt, mgonzales">
-        <extension point="kodi.resource.images" compile="false" type="backgroundoverlays" />
-        <requires>
-            <import addon="kodi.resource" version="1.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Pack of images that can be used as background overlay</summary>
-            <description lang="en">Pack of images that can be used as background overlay</description>
-            <platform>all</platform>
-        </extension>
-    </addon>
+	<extension point="kodi.resource.images" compile="false" type="backgroundoverlays" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Pack of images that can be used as background overlay</summary>
+		<description lang="en">Pack of images that can be used as background overlay</description>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
     <addon id="resource.images.busyspinners.basic" name="Animated Busy Spinners Pack" version="1.0.6" provider-name="marcelveldt,marduk">
-        <extension point="kodi.resource.images" compile="false" type="busyspinners" />
-        <requires>
-            <import addon="kodi.resource" version="1.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Animated Busy Spinners Pack - Titan</summary>
-            <description lang="en">Animated Busy Spinners Pack - Titan</description>
-            <platform>all</platform>
-        </extension>
-    </addon>
+	<extension point="kodi.resource.images" compile="false" type="busyspinners" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Animated Busy Spinners Pack - Titan</summary>
+		<description lang="en">Animated Busy Spinners Pack - Titan</description>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
     <addon id="resource.images.skinbackgrounds.titanium" name="Skin Backgrounds - Titanium" version="1.0.0" provider-name="marcelveldt">
-        <extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
-        <requires>
-            <import addon="kodi.resource" version="1.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Skin Backgrounds Pack - Titanium</summary>
-            <description lang="en">Skin Backgrounds Pack - Titanium</description>
-            <platform>all</platform>
-        </extension>
-    </addon>
+	<extension point="kodi.resource.images" compile="false" type="skinbackgrounds" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Skin Backgrounds Pack - Titanium</summary>
+		<description lang="en">Skin Backgrounds Pack - Titanium</description>
+		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+	</extension>
+</addon>
     <addon id="resource.images.skinicons.wide" name="Skin Icons - Wide" version="1.0.5" provider-name="marcelveldt, cartman.dos">
-        <extension point="kodi.resource.images" compile="false" type="skinicons" />
-        <requires>
-            <import addon="kodi.resource" version="1.0.0"/>
-        </requires>
-        <extension point="xbmc.addon.metadata">
-            <summary lang="en">Skin Icons Pack - Wide</summary>
-            <description lang="en">Skin Icons Pack - Wide</description>
-            <platform>all</platform>
-            <license>GPL v3.0</license>
-            <forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
-            <website></website>
-            <source>https://github.com/cartmandos/resource.images.skinicons.wide/</source>
-        </extension>
-    </addon>
+	<extension point="kodi.resource.images" compile="false" type="skinicons" />
+	<requires>
+		<import addon="kodi.resource" version="1.0.0"/>
+	</requires>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Skin Icons Pack - Wide</summary>
+		<description lang="en">Skin Icons Pack - Wide</description>
+		<platform>all</platform>
+		<license>GPL v3.0</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
+		<website></website>
+		<source>https://github.com/cartmandos/resource.images.skinicons.wide/</source>
+		<assets>
+            <icon>icon.png</icon>
+        </assets>
+	</extension>
+</addon>
 	
 </addons>
