@@ -8,5 +8,9 @@
 		<summary lang="en">Animated Busy Spinners Pack - Titan</summary>
 		<description lang="en">Animated Busy Spinners Pack - Titan</description>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
 	</extension>
 </addon>
