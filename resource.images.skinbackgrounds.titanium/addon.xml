@@ -8,5 +8,9 @@
 		<summary lang="en">Skin Backgrounds Pack - Titanium</summary>
 		<description lang="en">Skin Backgrounds Pack - Titanium</description>
 		<platform>all</platform>
+		<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
 	</extension>
 </addon>
