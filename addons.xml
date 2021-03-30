@@ -673,10 +673,6 @@ v1.0.25 (marcelveldt)
 		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
 		<website></website>
 		<source>https://github.com/cartmandos/resource.images.moviegenreicons.bingie/</source>
-		<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
 	</extension>
 </addon>
     <addon id="resource.images.backgroundoverlays.basic" name="Background Overlays Pack - Basic" version="1.0.0" provider-name="marcelveldt, mgonzales">
@@ -688,10 +684,6 @@ v1.0.25 (marcelveldt)
 		<summary lang="en">Pack of images that can be used as background overlay</summary>
 		<description lang="en">Pack of images that can be used as background overlay</description>
 		<platform>all</platform>
-		<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
 	</extension>
 </addon>
     <addon id="resource.images.busyspinners.basic" name="Animated Busy Spinners Pack" version="1.0.6" provider-name="marcelveldt,marduk">
@@ -703,9 +695,6 @@ v1.0.25 (marcelveldt)
 		<summary lang="en">Animated Busy Spinners Pack - Titan</summary>
 		<description lang="en">Animated Busy Spinners Pack - Titan</description>
 		<platform>all</platform>
-		<assets>
-            <icon>icon.png</icon>
-        </assets>
 	</extension>
 </addon>
     <addon id="resource.images.skinbackgrounds.titanium" name="Skin Backgrounds - Titanium" version="1.0.0" provider-name="marcelveldt">
@@ -717,10 +706,6 @@ v1.0.25 (marcelveldt)
 		<summary lang="en">Skin Backgrounds Pack - Titanium</summary>
 		<description lang="en">Skin Backgrounds Pack - Titanium</description>
 		<platform>all</platform>
-		<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
 	</extension>
 </addon>
     <addon id="resource.images.skinicons.wide" name="Skin Icons - Wide" version="1.0.5" provider-name="marcelveldt, cartman.dos">
@@ -736,9 +721,6 @@ v1.0.25 (marcelveldt)
 		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
 		<website></website>
 		<source>https://github.com/cartmandos/resource.images.skinicons.wide/</source>
-		<assets>
-            <icon>icon.png</icon>
-        </assets>
 	</extension>
 </addon>
 	

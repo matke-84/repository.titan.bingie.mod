@@ -8,9 +8,5 @@
 		<summary lang="en">Pack of images that can be used as background overlay</summary>
 		<description lang="en">Pack of images that can be used as background overlay</description>
 		<platform>all</platform>
-		<assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
 	</extension>
 </addon>

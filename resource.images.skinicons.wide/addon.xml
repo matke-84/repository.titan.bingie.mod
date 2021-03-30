@@ -12,8 +12,5 @@
 		<forum>https://forum.kodi.tv/showthread.php?tid=334820</forum>
 		<website></website>
 		<source>https://github.com/cartmandos/resource.images.skinicons.wide/</source>
-		<assets>
-            <icon>icon.png</icon>
-        </assets>
 	</extension>
 </addon>
