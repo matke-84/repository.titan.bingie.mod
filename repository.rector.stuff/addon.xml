@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addons>
 <addon id="repository.rector.stuff" name="Rector Stuff" version="1.0.4" provider-name="rmrector">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
@@ -26,4 +25,3 @@
 		</assets>
 	</extension>
 </addon>
-</addons>
