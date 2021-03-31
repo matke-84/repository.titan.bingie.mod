@@ -76,7 +76,6 @@
 		</assets>
 	</extension>
 </addon>
-</addons>
 	
 	 <!-- TITAN BINGIE -->
    <addon id="skin.titan.bingie.mod" version="1.0.9" name="Titan BINGIE MOD" provider-name="AchillesPunks, HugoL, Matke">
