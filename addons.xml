@@ -20,6 +20,7 @@
         </assets>
 	</extension>
 </addon>
+	
    <addon id="repository.marcelveldt" version="1.0.3" name="Marcelveldt's BETA repository" provider-name="marcelveldt, finkleandeinhorn">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
@@ -49,7 +50,8 @@
 			<icon>icon.png</icon>
 		</assets>
 	</extension>
-<addons>
+</addon>
+	
 <addon id="repository.rector.stuff" name="Rector Stuff" version="1.0.4" provider-name="rmrector">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0"/>
