@@ -68,7 +68,7 @@
     </addon>
 	
 	 <!-- TITAN BINGIE -->
-   <addon id="skin.titan.bingie.mod" version="1.0.9" name="Titan BINGIE MOD" provider-name="AchillesPunks, HugoL">
+   <addon id="skin.titan.bingie.mod" version="1.0.9" name="Titan BINGIE MOD" provider-name="AchillesPunks, HugoL, Matke">
 	<requires>
 		<import version="5.15.0" addon="xbmc.gui"/>
 		<import addon="script.bingie.helper" version="1.0.0"/>
@@ -132,8 +132,8 @@
 		<website></website>
 		<source>https://github.com/matke-84/script.bingie.helper/</source>
 		<assets>
-			<icon>resources/icon.png</icon>
-			<fanart>resources/fanart.jpg</fanart>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
 		</assets>
 	</extension>
 </addon>
